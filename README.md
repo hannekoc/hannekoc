@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a freashman at Bilkent University.
+I'm a freshman at Bilkent University.
 I'm currently learning how to code on VSC.
 
 <!--
